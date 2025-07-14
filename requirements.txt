@@ -1,0 +1,12 @@
+dspy
+jupyter
+azure-ai-evaluation
+openai
+azure-identity
+pandas
+numpy
+python-dotenv
+mlflow>=2.20
+faiss-cpu
+semantic-kernel
+azure-ai-projects
